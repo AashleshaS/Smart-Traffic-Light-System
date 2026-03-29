@@ -18,7 +18,6 @@ This project implements an intelligent traffic light control system that uses Co
 The model processes the video frame-by-frame, calculating the density and adjusting the timer on the fly. Here is a sample of the execution logs:
 
 ```text
---- Starting Traffic Light Simulation ---
 Frame 22: Vehicle count = 14, Density = Medium, Green Light Duration = 30s
 Frame 23: Vehicle count = 13, Density = Medium, Green Light Duration = 30s
 Frame 24: Vehicle count = 15, Density = Medium, Green Light Duration = 30s
